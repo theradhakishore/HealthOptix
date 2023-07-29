@@ -1,4 +1,4 @@
-# Healthcare-Analytics
+# HealthOptix
 Contents of Repository:
 - Python Notebook file contains project code for Data Exploration, Feature Engineering, and Machine Learning models (Naive Bayes, XGBoost, Neural Networks).
 - PDF Report file contains overview of the project, predicitions and results.
